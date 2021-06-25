@@ -44,6 +44,12 @@ class SearchController: UIViewController,UISearchBarDelegate {
                     }
                 }
             }
+        }else if urlString.count == 0
+        {
+          
+                self.wekipidiaSearchResultModel?.removeAll()
+                self.searchTableView.reloadData()
+            
         }
     }
 }
