@@ -24,7 +24,7 @@
 		66EA806C217F95C3007D0AAE /* ServiceRequestLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66EA806B217F95C3007D0AAE /* ServiceRequestLayer.swift */; };
 		66EA806E217F95F5007D0AAE /* WikiPediaDetailsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66EA806D217F95F5007D0AAE /* WikiPediaDetailsModel.swift */; };
 		66EA8070217FB706007D0AAE /* DetailsWikipediaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66EA806F217FB706007D0AAE /* DetailsWikipediaViewController.swift */; };
-		7264010A2685A87C007FE105 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 726401052685A7EF007FE105 /* WebKit.framework */; };
+		7264010B2685A97F007FE105 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 726401052685A7EF007FE105 /* WebKit.framework */; };
 		89603E7398782F9C41B9B2AD /* Pods_WikipediaSearch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 839F8657D7AC7555F7974264 /* Pods_WikipediaSearch.framework */; };
 		EEE95137117849121A807391 /* Pods_WikipediaSearchUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C87B9166BA8CF282DDD3AD8 /* Pods_WikipediaSearchUITests.framework */; };
 		FFDEEC81B4CEDE303065F7EB /* Pods_WikipediaSearchTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3924F5601775F59120293463 /* Pods_WikipediaSearchTests.framework */; };
@@ -88,7 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7264010A2685A87C007FE105 /* WebKit.framework in Frameworks */,
+				7264010B2685A97F007FE105 /* WebKit.framework in Frameworks */,
 				89603E7398782F9C41B9B2AD /* Pods_WikipediaSearch.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
